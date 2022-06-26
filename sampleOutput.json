@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "Red Sox CTO: Baseball teams need modern tech stack as much as any other biz",
+            "description": "The Red Sox are no different than most businesses when it comes to a tech stack.",
+            "url": "https://techcrunch.com/2022/06/26/red-sox-cto-baseball-teams-need-modern-tech-stack-as-much-as-any-other-biz/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-544418682.jpg?w=600",
+            "publishedAt": "2022-06-26T13:00:32Z",
+            "content": "You know a modern Major League Baseball team like the Boston Red Sox is built on a steady diet of data and analytics this is true on the field just as much as in the front office.\r\nWhile the main foc… [+1862 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lucas Matney, Anita Ramaswamy",
+            "title": "Formerly rich NFT buyers party through the pain",
+            "description": "Welcome back to Chain Reaction. Last week, we talked about infinite pessimism in the crypto markets. This week, we’re talking about parties and tattoos and booze and fun. If you want to get this in your inbox every Thursday, you can subscribe on TechCrunch’s …",
+            "url": "https://techcrunch.com/2022/06/25/formerly-rich-nft-buyers-party-through-the-pain/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-19-at-12.06.22-PM.png?w=586",
+            "publishedAt": "2022-06-26T00:41:31Z",
+            "content": "Welcome back to Chain Reaction.\r\nLast week, we talked about infinite pessimism in the crypto markets. This week, we’re talking about parties and tattoos and booze and fun.\r\nIf you want to get this in… [+8844 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Henry Pickavet",
+            "title": "The ruling against Juuling?",
+            "description": "Hello and welcome back to Week in Review, your one-stop spot for the biggest stories from the week. Greg Kumparak is off enjoying the beginning of summer and has entrusted me to keep you updated in his absence. If you want this in your inbox every Saturday, s…",
+            "url": "https://techcrunch.com/2022/06/25/juul-vaping-banned-in-the-us-by-fda/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1044550250-e1563945209912.jpeg?w=749",
+            "publishedAt": "2022-06-25T20:30:04Z",
+            "content": "Hello and welcome back to Week in Review, your one-stop spot for the biggest stories from the week. Greg Kumparak is off enjoying the beginning of summer and has entrusted me to keep you updated in h… [+4805 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "This Week in Apps: Twitter Notes, Instagram age verification, Spotify's Live Events",
+            "description": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record number of downloads and consumer spending across both …",
+            "url": "https://techcrunch.com/2022/06/25/this-week-in-apps-twitter-notes-instagram-age-verification-spotifys-live-events/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/this-week-in-apps-splash-2021.png?w=753",
+            "publishedAt": "2022-06-25T18:32:10Z",
+            "content": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.\r\nThe app industry continues to grow, with a … [+16421 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Mascarenhas",
+            "title": "What do you call the opposite of the startup halo effect?",
+            "description": "Welcome to Startups Weekly, a fresh human-first take on this week’s startup news and trends. To get this in your inbox, subscribe here. Just as one company’s success shouldn’t cast a halo on its vertical’s brethren, one company’s layoffs don’t quite mean that…",
+            "url": "https://techcrunch.com/2022/06/25/what-do-you-call-the-opposite-of-the-startup-halo-effect/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/startups-weekly-featured1.jpg?w=711",
+            "publishedAt": "2022-06-25T18:06:10Z",
+            "content": "Welcome to Startups Weekly, a fresh human-first take on this weeks startup news and trends. To get this in your inbox, subscribe here.\r\nJust as one companys success shouldnt cast a halo on its vertic… [+5854 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jaclyn Trop",
+            "title": "What's the 'secret sauce' behind Croatian EV maker Rimac?",
+            "description": "Rimac Group made headlines after raising a Series D round that valued the Croatian startup at $2.2 billion, prompting the question: How has it succeeded where so many other EV makers have struggled?",
+            "url": "https://techcrunch.com/2022/06/25/whats-the-secret-sauce-behind-croatian-ev-maker-rimac/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/Mate_Rimac_04.jpg?w=600",
+            "publishedAt": "2022-06-25T16:00:52Z",
+            "content": "Rimac Group made headlines in June after it raised 500 million ($537 million) in a Series D round led by Goldman Sachs and SoftBank Vision Fund 2. The deal valued the Croatian startup at $2.2 billion… [+1078 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Indian fintechs request central bank to treat full-KYC PPI same as bank account to survive crackdown",
+            "description": "Payments giants and fintech startups in India on Saturday requested the central bank to treat widely used prepaid payment instruments on par with bank accounts for customers who have undertaken certain verifications, days after the monetary authority signalle…",
+            "url": "https://techcrunch.com/2022/06/25/indian-fintechs-request-central-bank-to-treat-full-kyc-ppi-same-as-bank-account-to-survive-crackdown/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1237204056.jpg?w=600",
+            "publishedAt": "2022-06-25T15:10:55Z",
+            "content": "Payments giants and fintech startups in India on Saturday requested the central bank to treat widely used prepaid payment instruments on par with bank accounts for customers who have undertaken certa… [+2836 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Crypto community or crumbling cult? And other TC news",
+            "description": "This week on the TechCrunch Podcast I talk with Jacquelyn Melinek about the power and pitfalls of crypto communities and Devin Coldewey about why Pornhub’s COO and CEO have unceremoniously stepped down. And as always, you’ll get a rundown of the week’s top ne…",
+            "url": "https://techcrunch.com/2022/06/25/crypto-community-or-crumbling-cult-and-other-tc-news/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/TC-Pod-feature.jpg?w=614",
+            "publishedAt": "2022-06-25T15:01:48Z",
+            "content": "This week on the TechCrunch Podcast I talk with Jacquelyn Melinek about the power and pitfalls of crypto communities and Devin Coldewey about why Pornhubs COO and CEO have unceremoniously stepped dow… [+128 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anna Heim",
+            "title": "25 French unicorns, 25 French unicorns, do I hear 100?",
+            "description": "French President Emmanuel Macron hopes there will be 100 French unicorns by 2030. Economy Minister Bruno Le Maire, 10 homegrown decacorns. But shouldn't we all dream of centaurs instead?",
+            "url": "https://techcrunch.com/2022/06/25/25-french-unicorns-25-french-unicorns-do-i-hear-100/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=533",
+            "publishedAt": "2022-06-25T13:00:35Z",
+            "content": "Welcome to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday? Sign up here.\r… [+2523 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Mascarenhas",
+            "title": "Startup layoffs, the art of reinvention and a MasterClass in change",
+            "description": "Changes within a particular startup can be used as benchmark questions for their larger market; in other words, we can use the micro to better understand the macro.",
+            "url": "https://techcrunch.com/2022/06/25/startup-layoffs-the-art-of-reinvention-and-a-masterclass-in-change/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1329973414.jpg?w=600",
+            "publishedAt": "2022-06-25T11:00:26Z",
+            "content": "Just as one companys success shouldnt cast a halo on its verticals brethren, one companys layoffs dont quite mean that its competitors are equally screwed. Instead, I think that changes within a part… [+1925 chars]"
+        }
+    ]
+}
